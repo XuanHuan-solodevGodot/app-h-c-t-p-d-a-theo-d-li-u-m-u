@@ -1,0 +1,70 @@
+1. Thuật toán tìm kiếm tuyến tính có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n)
+B. O(log n)
+C. O(n²)
+D. O(1)
+Đáp án đúng: A. O(n)
+
+2. Thuật toán tìm kiếm nhị phân có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n)
+B. O(log n)
+C. O(n²)
+D. O(1)
+Đáp án đúng: B. O(log n)
+
+3. Thuật toán sắp xếp nổi bọt (Bubble Sort) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n log n)
+B. O(n²)
+C. O(n)
+D. O(1)
+Đáp án đúng: B. O(n²)
+
+4. Thuật toán sắp xếp nhanh (Quick Sort) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n log n)
+B. O(n²)
+C. O(n)
+D. O(log n)
+Đáp án đúng: A. O(n log n)
+
+5. Thuật toán sắp xếp chọn (Selection Sort) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n²)
+B. O(n log n)
+C. O(n)
+D. O(1)
+Đáp án đúng: A. O(n²)
+
+6. Thuật toán sắp xếp chèn (Insertion Sort) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n²)
+B. O(n log n)
+C. O(n)
+D. O(1)
+Đáp án đúng: A. O(n²)
+
+7. Thuật toán sắp xếp trộn (Merge Sort) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n²)
+B. O(n log n)
+C. O(n)
+D. O(1)
+Đáp án đúng: B. O(n log n)
+
+8. Thuật toán tìm kiếm theo bảng băm (Hash Table Search) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(n)
+B. O(log n)
+C. O(1)
+D. O(n²)
+Đáp án đúng: C. O(1)
+
+9. Thuật toán duyệt đồ thị theo chiều rộng (BFS) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(V + E)
+B. O(n²)
+C. O(log n)
+D. O(1)
+Đáp án đúng: A. O(V + E)
+(V: số đỉnh, E: số cạnh)
+
+10. Thuật toán duyệt đồ thị theo chiều sâu (DFS) có độ phức tạp thời gian trung bình là bao nhiêu?  
+A. O(V + E)
+B. O(n²)
+C. O(log n)
+D. O(1)
+Đáp án đúng: A. O(V + E)
